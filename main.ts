@@ -7,7 +7,6 @@ radio.onReceivedString(function (receivedString) {
     ポイント,
     9
     )
-    music.ringTone(ポイント * -1)
 })
 let ポイント = 0
 let 信号 = 0
